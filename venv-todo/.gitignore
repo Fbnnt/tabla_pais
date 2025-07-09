@@ -1,0 +1,11 @@
+#archivos de entornos
+
+.venv/
+venv/
+env/
+.env
+.venv-todo/
+
+#cache de Python
+
+__pycache__/
